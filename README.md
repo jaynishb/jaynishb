@@ -34,9 +34,9 @@
 </p>
 
 - 😄 Pronouns: He/Him
-- 👨‍💻 Full stack developer at Zenjob GmbH
+- 👨‍💻 Full stack developer at Atom learning!
 - 🔭 I’m currently working on really cool full stack stuff <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="18"/>
-- 🌱 I’m currently learning python and tensorflow 
+- 🌱 I’m currently learning blockchain and web3 
 - 🚀 Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
