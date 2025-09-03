@@ -3,7 +3,7 @@
 
 <img align="right" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="120" height="120" />
 
-<p> </br> I'm Jaynish, Fullstack javascript developer. Having more than 7+ years of experience in Javascript technologies such as Nodejs, ReactJs etc along with Typescript, developed wide range of skills. </p>
+<p> </br> I'm Jaynish, Fullstack javascript developer. Having more than 10+ years of experience in Javascript technologies such as Nodejs, ReactJs etc along with Typescript, developed wide range of skills. </p>
 
 <br/>
 <h3>Things I code with</h3>
